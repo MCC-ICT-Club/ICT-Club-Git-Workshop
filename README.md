@@ -10,3 +10,6 @@ Workshop Outline
 - Give workshop access to github repo with cheat sheets
 - Turn the cheat sheet into print statements and develop
 	repo as a group
+
+Link to freeCodeCamp.org Tutorial:
+https://www.youtube.com/watch?v=RGOj5yH7evk&t=461s
